@@ -1,0 +1,9 @@
+.custom-owl-item{
+	height: 100% !important;
+	font-family: 'serifttfont';
+	padding: 0 1em 0 0;
+}
+.owlImg{
+	height: 100%;
+	margin: 0 0 0 -0.1em;
+}
